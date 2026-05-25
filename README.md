@@ -1,0 +1,2 @@
+# Lista-de-Tarefas-To-Do-List-
+Projeto prático de Lista de Tarefas (To-Do List) focado nos fundamentos do JavaScript puro. Treina manipulação dinâmica do DOM para desenhar telas via código e uso do LocalStorage do navegador para manter as tarefas salvas após recarregar.
