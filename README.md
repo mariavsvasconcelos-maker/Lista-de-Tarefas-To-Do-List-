@@ -1,6 +1,6 @@
-✅ To-Do List | Vanilla JS & DOM Dinâmico
+## ✅ To-Do List | Vanilla JS & DOM Dinâmico
 
-> Uma aplicação web minimalista e rápida para gerenciamento de tarefas, construída inteiramente "do zero" utilizando apenas JavaScript puro.
+> Uma aplicação web minimalista e rápida para gerenciamento de tarefas, construída inteiramente "do zero" utilizando apenas JavaScript.
 
 ## 📖 Sobre o Projeto
 
